@@ -13338,3 +13338,9 @@ img {
         background-attachment: scroll;
     }
 }
+
+/* My CSS */
+#about .nav-link {
+    display: block;
+    padding: 0.5rem;
+}
